@@ -1,0 +1,13 @@
+*.confusing.wtf.	1	IN	A	REPLACEHERE ; subdomain moment
+cheat.confusing.wtf.	1	IN	A	REPLACEHERE
+confusing.wtf.	1	IN	A	REPLACEHERE
+images.confusing.wtf.	1	IN	A	REPLACEHERE ; image host
+node-1.confusing.wtf.	1	IN	A	REPLACEHERE
+panel.confusing.wtf.	1	IN	A	REPLACEHERE
+php.confusing.wtf.	1	IN	A	REPLACEHERE
+play.confusing.wtf.	1	IN	A	REPLACEHERE
+retard.confusing.wtf.	1	IN	A	REPLACEHERE
+trol.confusing.wtf.	1	IN	A	REPLACEHERE
+strezz.confusing.wtf.	1	IN	A	REPLACEHERE
+grafana.confusing.wtf.	1	IN	A	REPLACEHERE
+zentera.confusing.wtf.	1	IN	A	REPLACEHERE

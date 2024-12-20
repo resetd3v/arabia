@@ -1,0 +1,31 @@
+{
+    "valid" : true,
+    "discord" : {
+        "token" : "",
+        "token2" : "",
+        "guild" : 0
+    },
+    "site" : {
+        "domain" : "",
+        "remoteDomain" : "",
+        "secret" : "",
+        "auth" : "",
+        "uuid" : "",
+        "statsChannel" : 0,
+        "vpsChannel" : 0
+    },
+    "cf" : {
+        "apiKey" : "",
+        "zoneID" : ""
+    },
+    "debug" : {
+        "level" : 0,
+        "verbose" : false
+    },
+    "logger" : {
+        "prefix" : "",
+        "discord" : {
+            "ephemeral" : true
+        }
+    }
+}
